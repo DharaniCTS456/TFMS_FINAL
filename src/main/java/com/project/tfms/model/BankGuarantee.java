@@ -60,7 +60,7 @@ public class BankGuarantee {
     }
 
     public void setGuaranteeAmount(Double guaranteeAmount) {
-        this.guaranteeAmount = guaranteeAmount;
+        this.guaranteeAmount = guaranteeAmount;								
     }
 
     public String getCurrency() {
